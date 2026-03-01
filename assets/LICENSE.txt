@@ -1,0 +1,8 @@
+El código fue escrito y el programa fue desarrollado por:
+
+Escalante Edgar Sebastián
+Fecha: 28/02/2026
+
+Todos los derechos reservados.
+
+Con la ayuda de GitHub Copilot.
